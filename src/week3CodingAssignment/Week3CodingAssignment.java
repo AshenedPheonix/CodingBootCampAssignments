@@ -1,6 +1,4 @@
 package week3CodingAssignment;
-import java.io.*;
-import java.util.Scanner;
 
 public class Week3CodingAssignment {
 
